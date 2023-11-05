@@ -30,8 +30,10 @@ Welcome to my digital space! I'm a passionate coder and a lifelong learner curre
 [![Qiskit](https://img.shields.io/badge/Qiskit-00AEE9?style=flat-square&logo=qiskit&logoColor=white)](https://qiskit.org/)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
+<!--
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=96hoshi&show_icons=true&count_private=true)
+-->
 
 ## 🌍 Connect with Me
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/marta-lo-cascio)

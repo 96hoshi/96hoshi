@@ -24,10 +24,6 @@ Yes, another auto-generated readme from ChatGPT that no-one will ever read. But 
 
 Hey there, fellow travelers of the digital realm! Beyond the lines of code, I'm an anime aficionado, a Europhile with an insatiable wanderlust for the continent's hidden gems, and a green advocate who believes in making the world a better place, one sustainable choice at a time.
 
-🌍 **Favorite Destinations**: Strolling through the charming streets of Europe, exploring the breathtaking landscapes of Studio Ghibli, and getting lost in the ethereal world of Spirited Away.
-
-Whether it's crafting elegant code or reveling in the enchantment of Japanese animation, I'm always on the lookout for the next thrilling adventure.
-
 ## ⚙️ Technologies & Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp)

@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 ### Computer Science Master's Student at UniPi 🎓
 
 Welcome to my digital space! I'm a passionate coder and a lifelong learner currently pursuing my Master's degree in Computer Science at the University of Pisa (Italy). Here, you'll find a blend of code, creativity, and curiosity.
-Yes, another auto-generated readme from ChatGPT that no-one will ever read. But just in case you're that one curious soul who stumbled upon this digital nook, here's a glimpse into my GitHub.
+Yes, another auto-generated readme from ChatGPT that no-one will ever read.
 
 ## About Me
 👾 **Nerdy by Nature** | 🌸 **Anime Addict** | 🇪🇺 **Europhile** | 🌿 **Green Advocate** | 😄 **Pronouns**: She/Her
-
-Hey there, fellow travelers of the digital realm! Beyond the lines of code, I'm an anime aficionado, a Europhile with an insatiable wanderlust for the continent's hidden gems, and a green advocate who believes in making the world a better place, one sustainable choice at a time.
 
 ## ⚙️ Technologies & Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
@@ -36,5 +34,3 @@ Hey there, fellow travelers of the digital realm! Beyond the lines of code, I'm 
 ## 🌍 Connect with Me
 - LinkedIn: [Marta Lo Cascio](https://www.linkedin.com/in/marta-lo-cascio)
 - Email: [m.locascio96@hotmail.com](m.locascio96@hotmail.com)
-
-Feel free to explore my projects, reach out, or simply join me on this exciting journey where code, culture, and environmental consciousness merge harmoniously. Every day is a new opportunity for learning, growth, and exploration! 🌱🌸🌎✨

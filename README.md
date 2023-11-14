@@ -22,14 +22,9 @@ Yes, another auto-generated readme from ChatGPT that no-one will ever read.
 ## About Me
 👾 **Nerdy by Nature** | 🌸 **Anime Addict** | 🇪🇺 **Europhile** | 🌿 **Green Advocate** | 😄 **Pronouns**: She/Her
 
-## ⚙️ Technologies & Tools
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp)
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
-[![Qiskit](https://img.shields.io/badge/Qiskit-00AEE9?style=flat-square&logo=qiskit&logoColor=white)](https://qiskit.org/)
-
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=96hoshi&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=96hoshi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=96hoshi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
 
 ## 🌍 Connect with Me
 - LinkedIn: [Marta Lo Cascio](https://www.linkedin.com/in/marta-lo-cascio)

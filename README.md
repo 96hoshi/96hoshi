@@ -63,7 +63,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,ocaml,git,docker,mysql,postgres,linux&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,ocaml,rust,git,docker,postgres,linux&perline=5" />
   </a>
 </p>
 
@@ -75,6 +75,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=96hoshi&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=96hoshi&theme=tokyonight" />
 </p>
+
 ---
 
 <p align="center">

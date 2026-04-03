@@ -8,8 +8,7 @@
   </a>
 
   <br/>
-
-  <a href="https://www.linkedin.com/in/96hoshi/">
+  <a href="https://www.linkedin.com/in/marta-lo-cascio/">
     <img src="https://img.shields.io/badge/LinkedIn-96hoshi-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;

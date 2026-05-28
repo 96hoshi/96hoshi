@@ -23,9 +23,9 @@
 
 ### 📖 About Me
 
-I'm a Software Developer with an M.Sc. in Computer Science from the University of Pisa (Italy).
+I'm a Software Engineer at Leonardo S.p.A. with an M.Sc. in Computer Science from the University of Pisa (Italy).
 
-I recently gained hands-on experience as a **Software Developer at Plan4Better** in Munich (Germany), building scalable backend services and contributing to open-source geo tools. I'm now **actively looking for new opportunities** where I can keep growing and make an impact.
+I recently gained hands-on experience as a **Software Developer at Plan4Better** in Munich (Germany), building scalable backend services and contributing to open-source geo tools.
 
 - 🔭 Sharpening my backend skills one service at a time
 - 🌱 Diving into cloud-native architectures and system design
